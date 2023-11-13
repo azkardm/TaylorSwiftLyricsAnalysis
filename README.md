@@ -1,5 +1,5 @@
-# TaylorSwiftLyricsAnalysis
+# TaylorSwiftSongsAnalysis
 
-Contains some analysis about Taylor Swift's songs:
+Contains some simple analysis of Taylor Swift's songs:
 1. Sentiment analysis
 2. Words analysis

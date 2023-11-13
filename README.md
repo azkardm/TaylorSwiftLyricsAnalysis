@@ -1,4 +1,4 @@
-# TaylorSwiftSongsAnalysis
+# Taylor Swift's Songs Analysis
 
 Contains some simple analysis of Taylor Swift's songs:
 1. Sentiment analysis
